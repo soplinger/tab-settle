@@ -1,0 +1,6 @@
+# Weekend cabin trip
+Alice | 90.00 | Cabin | Alice, Bob, Carol
+Bob | 45.50 | Groceries | Alice, Bob, Carol
+carol | 12 | Petrol | bob, CAROL
+
+Dave | 20 | Pizza | Dave, alice
